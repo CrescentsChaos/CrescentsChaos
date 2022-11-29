@@ -7,4 +7,6 @@
 <a href="https://www.youtube.com/@crescent.1873">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>
 </a>
-
+<a href="https://www.youtube.com/@crescent.1873">
+  <img height="50" src="https://media.discordapp.net/attachments/1001829969745420328/1047025058851328040/1669700605016.png"/>
+</a>
