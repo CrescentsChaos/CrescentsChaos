@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> </p>
-<p align="left"> <a href="https://github.com/CrescentsChaos/Pokemon">
+<p align="left"> <a href="https://github.com/CrescentsChaos/PokemonCrescentVersion">
   <img height="100" src="https://media.discordapp.net/attachments/982880054583394375/1082982994131828756/20230308_170704.png"/>
 </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crescentschaos&show_icons=true&locale=en&theme=dark" alt="crescentschaos" /></p>
