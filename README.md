@@ -40,7 +40,7 @@
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Axios](https://img.shields.io/badge/axios-%23000000.svg?style=for-the-badge&logo=axios&logoColor=white)
   ![Puppeteer](https://img.shields.io/badge/puppeteer-%23000000.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
-</details>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crescentschaos&show_icons=true&locale=en&theme=dark" alt="crescentschaos" /></p>
 
