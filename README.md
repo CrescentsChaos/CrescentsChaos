@@ -32,8 +32,4 @@
   ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crescentschaos&show_icons=true&locale=en&theme=dark" alt="crescentschaos" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crescentschaos&show_icons=true&locale=en&theme=dark" alt="crescentschaos" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crescentschaos&theme=dark" alt="crescentschaos" /></p>
