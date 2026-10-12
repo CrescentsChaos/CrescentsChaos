@@ -30,6 +30,12 @@
   ![PowerShell](https://img.shields.io/badge/powershell-%23148C5B.svg?style=for-the-badge&logo=powershell&logoColor=white)
   ![Discord](https://img.shields.io/badge/discord-%23007FFF.svg?style=for-the-badge&logo=discord&logoColor=white)
   ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+  ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+  ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+  ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crescentschaos&theme=dark" alt="crescentschaos" /></p>
